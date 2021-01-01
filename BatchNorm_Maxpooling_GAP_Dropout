@@ -1,0 +1,17 @@
+  
+#1 Target
+
+Model is created using Dropout,BatchNorm, Maxpooling and Gobal Average pooling.
+
+#1 Results:
+Parameters: 9.9k
+Best Train Accuracy: 99.11
+Best Test Accuracy: 99.19
+
+#1 Analysis:
+There is evidence of overfitting in some of the epochs in the models. 
+Most of the time accuracy of training and test are close enough
+last 2 pochs have accuracy as below :
+  Epoch 14 - Training : 99.06 Test: 98.91 difference : 0.15
+  Epoch 15 - Training : 99.11 Test: 99.19 difference : 0.08 (tst accuracy is high)
+Looking at the accuracy if we increase the number of epochs we might get 99.4 accuracy
