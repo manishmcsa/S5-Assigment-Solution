@@ -1,0 +1,16 @@
+#1 Target:
+
+First model is created using BatchNorm, Maxpooling and Gobal Average pooling.
+
+#1 Results:
+Parameters: 7.1k
+Best Train Accuracy: 98.95
+Best Test Accuracy: 98.85
+
+#1 Analysis:
+There is evidence of overfitting in the models. Some of the epochs have high accuracy of training than test.
+Most of the time are close enough
+last 2 pochs have accuracy as below :
+  Epoch 14 - Training : 98.91 Test: 98.85 difference : 0.06
+  Epoch 15 - Training : 98.95 Test: 98.84 difference : 0.11
+Looking at the accuracy if we increase the number of epochs we might get 99.4 accuracy
