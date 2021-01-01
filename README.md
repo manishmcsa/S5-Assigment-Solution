@@ -7,4 +7,4 @@
 
 #### Code File  : BatchNorm_Maxpooling_GAP_Dropout_Learning_rate_Image_Rotation.ipynb   -> Analysis  : BatchNorm_Maxpooling_GAP_Dropout_Learning_rate_Image_Rotation
 
-#### Code file  : BatchNorm_Maxpooling_GAP_Dropout_Learning_rate.ipynb     ->    Analysis : 
+#### Code file  : BatchNorm_Maxpooling_GAP_Dropout_Learning_rate.ipynb     ->    Analysis : BatchNorm_Maxpooling_GAP_Dropout_Learning_rate
