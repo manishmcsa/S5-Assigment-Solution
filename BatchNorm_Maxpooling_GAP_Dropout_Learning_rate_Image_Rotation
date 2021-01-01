@@ -14,3 +14,4 @@ Most of the time accuracy of training and test are close enough
 last 2 pochs have accuracy as below :
   Epoch 14 - Training : 99.40 Test: 99.42 difference : 0.02 (test accuracy is high)
   Epoch 15 - Training : 99.36 Test: 99.46 difference : 0.10 (test accuracy is high)
+Last 5 epochs have accuracy of test data above 99.4
