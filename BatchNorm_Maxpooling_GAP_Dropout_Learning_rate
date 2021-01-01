@@ -1,1 +1,17 @@
 
+1 Target
+
+Model is created using Dropout,BatchNorm, Maxpooling, Gobal Average pooling,  Image Rotation (transforms) and applying Learning rate.
+
+#1 Results:
+Parameters: 9.9k
+Best Train Accuracy: 99.43
+Best Test Accuracy: 99.48
+
+#1 Analysis:
+No evidence of overfitting model. Training accuracy is always less than test accuray in each epoch.
+Most of the time accuracy of training and test are close enough
+last 2 pochs have accuracy as below :
+  Epoch 14 - Training : 99.43 Test: 99.42 difference : 0.01 (test accuracy is high)
+  Epoch 15 - Training : 99.39 Test: 99.48 difference : 0.02 (test accuracy is high)
+Last 5 epochs have accuracy of test data above 99.4
